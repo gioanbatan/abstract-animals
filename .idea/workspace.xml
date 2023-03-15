@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4e293dc-d3de-4b54-a0af-f1490039d2cc" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/exerciseone/Animale.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciseone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciseone/Animale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Animale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciseone/Aquila.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciseone/Cane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciseone/Delfino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciseone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/ExerciseOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciseone/Passerotto.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +22,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectId" id="2N3GioADxhpkpip25cgKcaTUbk8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,7 +47,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,5 +79,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

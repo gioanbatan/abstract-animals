@@ -1,6 +1,6 @@
-package exerciseone;
+package exercise;
 
-public class Main {
+public class ExerciseOne {
 
     public static void main(String[] args) {
         Aquila animale1 = new Aquila();
